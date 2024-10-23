@@ -64,7 +64,10 @@ What would you like to do?
 
 Enter the numbers of the tasks you want to perform (comma-separated, e.g., 1,3,5): 1,4,5
 ```
+## Important Warning
+
 **WARNING:** This tool is intended for educational and ethical use only. Unauthorized use of this tool against any website or system without permission is illegal and may lead to severe legal consequences. Always ensure you have explicit permission to test a website's security before proceeding.
+
 
 ## License
 
@@ -73,7 +76,6 @@ This project is licensed under the MIT License.
 
 This provides a clear and concise description of your project with installation, usage, and example output details.
 ```
-**WARNING:** This tool is intended for educational and ethical use only. Unauthorized use of this tool against any website or system without permission is illegal and may lead to severe legal consequences. Always ensure you have explicit permission to test a website's security before proceeding.
 
 
 
