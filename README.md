@@ -72,10 +72,7 @@ Enter the numbers of the tasks you want to perform (comma-separated, e.g., 1,3,5
 ## License
 
 This project is licensed under the MIT License.
-```
 
-This provides a clear and concise description of your project with installation, usage, and example output details.
-```
 
 
 
